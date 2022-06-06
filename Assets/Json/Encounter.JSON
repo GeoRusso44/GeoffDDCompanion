@@ -1,0 +1,724 @@
+{
+	"encounters": [
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Easy",
+			"description": "1 Giant Owl"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Easy",
+			"description": "1d6 + 3 kobolds"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Easy",
+			"description": "1d4 + 3 Trappers (Commoner Stats)"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Easy",
+			"description": "1 Owl"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Easy",
+			"description": "2d4 Blood Hawks"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Easy",
+			"description": "2d6 Bandits"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Easy",
+			"description": "1d3 winged kobolds with 1d6 kobolds"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Event",
+			"description": "A partially eaten carcass of a mammoth, from which 1d4 weeks of rations can be harvested"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Easy",
+			"description": "2d8 hunters (Tribal warrior stat block)"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Easy",
+			"description": "1 half-ogre"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Easy",
+			"description": "Single file tracks in the snow that stop abruptly"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Easy",
+			"description": "1d3 ice mephits"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Medium",
+			"description": "1 brown bear"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Medium",
+			"description": "1d6 + 1 Orcs"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Medium",
+			"description": "1 polar bear"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "2 polar bear"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Medium",
+			"description": "1d6 scouts"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Medium",
+			"description": "1 saber-toothed tiger"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Event",
+			"description": "A frozen pond with a jagged hole in the ice that appears recently made"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Medium",
+			"description": "1 berserker"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Medium",
+			"description": "1 ogre"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Medium",
+			"description": "1 griffon"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Medium",
+			"description": "1 druid"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "3d4 refugees (Commoner stats) fleeing from 2d4 orcs"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1d3 veterans"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1d4 orogs"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "2 brown bears"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1 orc Eye  of Gruumsh with 2d8 orcs"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Medium",
+			"description": "1d3 winter wolves"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1d4 yetis"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Event",
+			"description": "2 half-ogres arguing over a dead elk"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1d2 manticores"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1 bandit captain with 2d6 bandits"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1 revenant"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1 troll"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1 werebear"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1 young remorhaz"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1 mammoth"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1 young white dragon"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Hard",
+			"description": "1 frost giant"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Easy",
+			"description": "2 saber-toothed tigers"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Easy",
+			"description": "1d4 half-ogres"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Easy",
+			"description": "1d3 + 1 brown bears"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Easy",
+			"description": "1d3 polar bears"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Easy",
+			"description": "2d4 berserkers"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Event",
+			"description": "A half-orc druid tending to an injured polar bear. If the party assist the druid, they give the party a greater healing potion"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Easy",
+			"description": "2d8 scouts"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Easy",
+			"description": "2d4 ice mephits"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Event",
+			"description": "A galleon trapped in ice, with 2d6 + 1 zombies guarding the remains of the ship. A small tresure and 2d20 days of rations can be found"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Easy",
+			"description": "1 manticore"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Easy",
+			"description": "2d6 + 3 orcs"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Easy",
+			"description": "1d6 + 2 ogres"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Medium",
+			"description": "2d4 griffons"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Medium",
+			"description": "1d4 veterans"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "1 bandit captain with 1 druid, 1d3 berserkers, and 2d10 + 5 bandits"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Event",
+			"description": "1d4 hours of extreme cold(Chapter 5 of the DMG)"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Medium",
+			"description": "1 young remorhaz"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "1 orc Eye of Gruumsh with 1d6 orogs and 2d8 + 6 orcs"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Medium",
+			"description": "1 revenant"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Event",
+			"description": "A howl that echoes over the land for 1d3 minutes"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Event",
+			"description": "An avalanche arriving in 1d4 minutes"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Event",
+			"description": "An avalanche arriving in 1 minutes"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "1d3 mammoths"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "1 young white dragon"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "4d4 winter wolves and 1d4 winter wolve pups"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "1d6 + 2 yetis"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "1d2 frost giants"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "1d3 werebears"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "1d4 trolls"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "1 Shoosuva"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Hard",
+			"description": "2 Shoosuva"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "1 abominable yeti"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "1 remorhaz"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "1 roc"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Hard",
+			"description": "2d4 young remorhazes"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Event",
+			"description": "A ice cave with the burnt remains of a yeti"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Event",
+			"description": "A remorhaze tunnel collapsing and opening up a tunnel network"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Event",
+			"description": "A remorhaze tunnel collapsing and opening up a tunnel network"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Easy",
+			"description": "1 abominable yeti"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Easy",
+			"description": "1d6 revenants"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Easy",
+			"description": "1d4 + 1 werebears"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Easy",
+			"description": "1d3 young white dragons"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Event",
+			"description": "A blizzard reduces visibility to 5 feet for 1d8 hours"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Event",
+			"description": "A blizzard reduces visibility to 5 feet for 1d3 hours"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Event",
+			"description": "A blizzard reduces visibility to 5 feet for 1d6 hours"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Event",
+			"description": "A blizzard reduces visibility to 5 feet for 1d12 hours"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Easy",
+			"description": "1 roc"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Event",
+			"description": "A heard of 3d20 + 60 caribou (deer stats) moving through the snow"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Event",
+			"description": "A ice cave with an abandoned white dragon egg and 3 broken eggs"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Medium",
+			"description": "2d4 mammoths"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Medium",
+			"description": "1d8 + 2 trolls"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Event",
+			"description": "A mile-wide frozen lake in whcih the preserved corpses of strange creatures can be seen"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Medium",
+			"description": "2d4 young remorhazes"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Event",
+			"description": "A crumbling ice castle littered with the frozen bodies of blue-skinned humanoids"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Hard",
+			"description": "1 adult white dragon"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Hard",
+			"description": "1d8 + 1 forst giants"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Hard",
+			"description": "1d4 remorhazes"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Hard",
+			"description": "1 ancient white dragon"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Easy",
+			"description": "2d10 revenants"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Easy",
+			"description": "2d8 trolls"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Easy",
+			"description": "2d10 werebears"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Easy",
+			"description": "1d4 frost giant"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Easy",
+			"description": "2d4 young remorhazes"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Medium",
+			"description": "2d4 frost gaints"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Event",
+			"description": "A circular patch of black ice on the ground. The air temperature around the patch is warmer then in the surrounding area, the characters who inspect the ice find bits of machinery frozen within"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Medium",
+			"description": "1 ancient white dragon"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Event",
+			"description": "An adventure frozen 6 feet under the ice, if gotten out they have a rare magic item of the DM's choice"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Medium",
+			"description": "1d3 abominable yetis"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Medium",
+			"description": "2d4 remorhazes"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Event",
+			"description": "A 500-foot-high wall of ice that is 300 feet thick and spread across 1d4 miles"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Medium",
+			"description": "1d4 rocs"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Event",
+			"description": "The likeness of a stern woman with long, flowing hair, carved into the side of a mountain"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Hard",
+			"description": "1d10 frost giants with 2d4 polar bears"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Hard",
+			"description": "1d3 adult white dragons"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Hard",
+			"description": "2d4 abominable yetis"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Hard",
+			"description": "1 ancient white dragon with 1d3 young white dragons"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "17-20",
+			"difficulty": "Hard",
+			"description": "A Nightwalker"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "5-10",
+			"difficulty": "Event",
+			"description": "Vampire Mist blows by in a silver wind"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "1-4",
+			"difficulty": "Event",
+			"description": "Vampire Mist blows by in a silver wind"
+		},
+		{
+			"location": "Artic",
+			"playerLevel": "11-16",
+			"difficulty": "Event",
+			"description": "Vampire Mist blows by in a silver wind"
+		}
+	]
+}
